@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes bull, or, Papal creed made at Trent and promulgated at Rome by Pope-Pious Fourth demonstrated to be antichristian whereunto is added a discourse between an English Protestant and a popish Jesuit who endeavoured to seduce some persons in London to the imbracing of popery : necessary to be seen by all that would know the present faith of Rome, especially in these our nations where they conceal it.</title>
+            <author>Catholic Church. Pope (1559-1565 : Pius IV)</author>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54954</idno><idno type="EEBO-CITATION">9570868</idno>
+  <idno type="VID">43676</idno>
+  <idno type="EEBO-PROQUEST">2264200412</idno>
+  
+            <idno type="STC">Wing P2323</idno>
+            <idno type="STC">ESTC R26886</idno>
+            <idno type="OCLC">09570868</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43676)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1337:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes bull, or, Papal creed made at Trent and promulgated at Rome by Pope-Pious Fourth demonstrated to be antichristian whereunto is added a discourse between an English Protestant and a popish Jesuit who endeavoured to seduce some persons in London to the imbracing of popery : necessary to be seen by all that would know the present faith of Rome, especially in these our nations where they conceal it.</title>
+                  <author>Catholic Church. Pope (1559-1565 : Pius IV)</author>
+                  <author>Pius IV, Pope, 1499-1565.</author>
+               </titleStmt>
+               <extent>p. 17-30.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text consists entirely of the actual bull followed by English translation. The discourse at the end is lacking.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="meeting_name">Council of Trent (1545-1563)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43676:1"/>
+            <pb facs="tcp:43676:1"/>
+            <p>THE POPES BULL OR, PAPAL CREED. MADE AT TRENT, And Promulgated at ROME BY Pope-Pious, Fourth. Demonstrated to be ANTICHRISTIAN.</p>
+            <p>VVhereunto is Added, A Discourse between an <hi>English Protestant,</hi> and a <hi>Popish Jesuit:</hi> who Endeavoured to Seduce some <hi>Persons</hi> in <hi>London,</hi> to the Imbracing of Popery: Necessary to be seen by all that would know the <hi>Present Faith</hi> of <hi>Rome,</hi> especially in these our <hi>Nations,</hi> where they conceal it.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="papal_bull">
+            <pb facs="tcp:43676:2"/>
+            <pb n="17" facs="tcp:43676:2"/>
+            <head>BULLA Sanctissimi Domini nostri, DOMINI <hi>PII,</hi> Divina Providentia PAPAE Quarti, Super formâ Juramenti Professionis Fidei.</head>
+            <opener>
+               <signed>
+                  <hi>PIUS</hi> Episcopus, Servus Servorum Dei, ad perpetuam Rei Memoriam.</signed>
+            </opener>
+            <p>
+               <hi>INjunctim nobis Apostolicae servitutis officium requirit, ut ea quae Dominus omnipotens ad providam Ecclesie suae directionem,</hi> Sanctis Patribus, in nomine suo con<g ref="char:EOLhyphen"/>gregatis, divinitus inspirare <hi>dignatus est ad ejus lau<g ref="char:EOLhyphen"/>dem &amp; gloriam incunctantur exequi properemus. Cum itaque</hi> juxta Concilii Tridentini dispositionem <hi>omnes, quos deinceps Cathedralibus &amp; superioribus Ecclesiis praefici, vel quibus de illarum dignitatibus, canonicatibus, &amp; aliis quibuscunque beneficiis Ecclesiasticis, curam animarum habentibus, provi<g ref="char:EOLhyphen"/>deri continget, publicam orthodoxae fidei professionem facere, séque in Ro<g ref="char:EOLhyphen"/>manae Ecclesiae obedientiâ permansuros spondere, &amp; jurare teneantur: Nos volentes, etiam per quoscunque, quibus de Monasteriis, Conventibus, Do<g ref="char:EOLhyphen"/>mibus, &amp; aliis quibuscunque locis Regularibus quorumcunque Ordinum, etiam Militiarum, quocunque nomine vel titulo providebitur, idem serva<g ref="char:EOLhyphen"/>ri, &amp; ad hoc, utunius ejusdem fidei professio uniformiter ab amnibus ex<g ref="char:EOLhyphen"/>hibeatur,
+<pb n="18" facs="tcp:43676:3"/>unicáque &amp; certa illius forma, cunctis innotescat nostiae sollici<g ref="char:EOLhyphen"/>tudinis partes, in hoc alicui minimè desiderari, formam ipsam praesenti<g ref="char:EOLhyphen"/>bus annotatam, publicari, &amp; ubique gentium per eos ad quos ex decretis ipsius Concilii, &amp; alios praedictos spectat, recipi &amp; observari, ac subpoenis per Concilium ipsum in contravenientes latis, juxta hanc &amp; non aliam formam, professionem praedictam solemnitor fieri Auctoritate Apostolicâ tenorepraesentium districtè praecipiendo mandamus hujusmodi s<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b tenore.</hi>
+            </p>
+            <p>Ego N. firmâ fide credo &amp; profiteor omnia &amp; singula, quae continentur in Symbolo fidei, quo sancta Romana Ecclesia utitur; <hi>videlicet:</hi>
+            </p>
+            <p>CRedo in unum Deum Patrem Omnipotentem, factorem coeli &amp; terrae, visibilium omnium &amp; invisibilium, &amp; in unum Dominum Jesum Christum, Filium Dei unigenitum, &amp; ex Patre natum ante omnia saecula, Deum de Deo, lumen de lumine, Deum verum de Deo vero, genitum, non factum, consubstantialem Patri, per quem omnia facta sunt: qui pro<g ref="char:EOLhyphen"/>pter nos homines &amp; propter nostram salutem descendit de coelis, &amp; incarna<g ref="char:EOLhyphen"/>tus est de Spiritu Sancto ex Mariâ Virgine, &amp; homo factus est, crucifixus etiam pro nobis sub Pontio Pilato passus, &amp; sepultus est, &amp; resurrexit ter<g ref="char:EOLhyphen"/>tiâ die secundùm Scripturas, &amp; ascendit in coelum, fedet ad dextram Patris, &amp; iterum venturus est cum gloriâ judicare vivos &amp; mortuos, cujus regni non erit finis: &amp; in Spiritum Sanctum Dominum &amp; vivificantem, cui ex Patre, filioque procedit: qui cum Patre &amp; Filio simul adoratur, &amp; conglorifica<g ref="char:EOLhyphen"/>tur, qui locutus est per Prophetas: &amp; unam, Sanctam, Catholicam, &amp; Apostolicam Ecclesiam. Confiteor unum baptisma in remissionem pecca<g ref="char:EOLhyphen"/>torum, &amp; expecto resurrectionem mortuorum, &amp; vitam venturi saeculi. <hi>Amen.</hi>
+            </p>
+            <p n="1">1. Apostolicas &amp; Ecclesiasticas traditiones, reliquásque ejusdem Ec<g ref="char:EOLhyphen"/>clesiae observationes &amp; constitutiones firmissimè admitto &amp; amplector.</p>
+            <p n="2">2. Item sacram Scripturam juxta eum sensum, quem tenuit &amp; tenet sancta mater Ecclesia, cujus est judicare de vero sensu &amp; interpretatione sacrarum Scripturarum, admitto, nec eam unquam nisi juxta unanimem consensum Patrum accipiam, &amp; interpretabor.</p>
+            <p n="3">3. Profiteor quoque septem esse verè &amp; propriè Sacramenta, novae legis à Jesu Christo Domino nostro instituta, atque ad salutem humani ge<g ref="char:EOLhyphen"/>neris, licèt non omnia singulis necessaria, scilicet, Baptismum, Confirma<g ref="char:EOLhyphen"/>tionem,
+<pb n="19" facs="tcp:43676:3"/>Eucharistiam, Poenitentiam, Extremam Unctionem, Ordinem &amp; Matrimonium, illáque gratiam conferre, &amp; ex his Baptismum, Confir<g ref="char:EOLhyphen"/>mationem, &amp; Ordinem, sine sacrilegio reiterari non posse.</p>
+            <p n="4">4. Receptos quoque &amp; approbatos Ecclesiae Catholicae ritus, in supra<g ref="char:EOLhyphen"/>dictorum omnium Sacramentorum solemni administratione recipio, &amp; admitto.</p>
+            <p n="5">5. Omnia &amp; singula, quae de peccato Originali, &amp; de justificatione in Sacrosancta Tridentina Synodo definita &amp; declarata fuerunt, amplector &amp; recipio.</p>
+            <p n="6">6. Profiteor pariter in Missâ offerri Deo verum, proprium &amp; propitia<g ref="char:EOLhyphen"/>torium sacrificium pro vivis &amp; defunctis, atque in sanctissimo Eucharistiae Sacramento esse, verè, realiter, &amp; substantialiter corpus &amp; sanguinem, unà cum animâ &amp; divinitate Domini nostri Jesu Christi, freríque conver<g ref="char:EOLhyphen"/>sionem totius substantiae panis in corpus, &amp; totius substantiae vini in sangui<g ref="char:EOLhyphen"/>nem, quam conversionem Catholica Ecclesia transubstantiationem appellat.</p>
+            <p n="7">7. Fateor etiam sub altera tantum specie, totum atque integrum Chri<g ref="char:EOLhyphen"/>stum, verúmque Sacramentum sumi.</p>
+            <p n="8">8. Constanter teneo Purgatorium esse, animásque ibi detentas fidelium suffragiis adjuvari.</p>
+            <p n="9">9. Similiter &amp; sanctos unà cum Christo regnantes, venerandos atque in<g ref="char:EOLhyphen"/>vocandos esse, eósque orationes Deo pro nobis offerre, atque eorum reli<g ref="char:EOLhyphen"/>quias esse venerandas.</p>
+            <p n="10">10. Firmissimè assero imagines Christi ac Deiparae semper Virginis, necnon aliorum sanctorum habendas &amp; retinendas esse, atque eis debitum honorem, ac venerationem impertiendam.</p>
+            <p n="11">11. Indulgentiarum etiam Potestatem, à Christo in Ecclesia relictam fuisse, illarúmque usum Chriftiano populo maximè salutarem esse, af<g ref="char:EOLhyphen"/>firmo.</p>
+            <p n="12">12. Sanctam Catholicam, &amp; Apostolicam Romanam Ecclesiam, omnium Ecclesiarum matrem, &amp; magistram agnosco, Romanóque Pontifici, Beati
+<pb n="20" facs="tcp:43676:4"/>Petri Apostolorum Principis successori, ac Jesu Christi Vicario veram obe<g ref="char:EOLhyphen"/>dientiam spondeo ac juro.</p>
+            <p n="13">13. Caetera item omnia à sacris Canonibus, &amp; oe cumenicis conciliis, ac praecipuè à sacro-sancta Tridentina Synodo tradita, definita, &amp; decla<g ref="char:EOLhyphen"/>rata, indubitanter recipio, atque profiteor, simúlque contraria omnia, at{que} haereses quascunque ab Ecclesia damnatas, rejectas, &amp; anathematizatas, ego pariter damno, rejicio &amp; anathematizo.</p>
+            <p n="14">14. Hanc veram Catholicam fidem extra quam nemo salvus esse potest, quam in praesenti sponte profiteor, &amp; veraciter teneo, eandem integram &amp; inviolatam, usque ad extremum vitae spiritum, constantissimè [Deo ad<g ref="char:EOLhyphen"/>juvante] retinere, &amp; confiteri, at que à meis subditis velillis, quorum cura ad me in munere meo, spectabit, teneri, doceri, &amp; praedicari, quantum in me erit, curaturum.</p>
+            <p>Ego idem N. spondeo, voveo, ac ju<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o: sic me Deus adjuvet, &amp; haec sancta Dei Evangelia.</p>
+            <p>
+               <hi>Volumus autem quòd praesentes literae in Cancellaria nostrâ Apostolicâ, de more, legantur: &amp; ut omnibus faciliùs pateant, in ejus Quinterno describantur, ac etiam imprimantur. Nulli ergo omnino hominum liceat hanc paginam nostrae voluntatis &amp; mandati infringere, vel ei <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>usu teme<g ref="char:EOLhyphen"/>rario contraire. Siquis autem hoc attentare praesumpserit indignationem omnipotentis Dei, ac Beatorum Petri &amp; Pauli, Apostolorum ejus se noverit incursurum.</hi>
+            </p>
+            <closer>
+               <dateline>Datum Romae, apud Sanctum Petrum, <date>Anno Incarnationis Domi<g ref="char:EOLhyphen"/>nicae Millesimo quingentesimo sexagesimo quarto. Idibus No<g ref="char:EOLhyphen"/>vembris, Pontificatus nostri Anno quinto.</date>
+               </dateline>
+               <signed>Fed. Cardinalis Caesius Cae. Glorierius.</signed>
+            </closer>
+         </div>
+         <div type="disposition">
+            <p>
+               <hi>Lectae &amp; publieatae fuerunt suprascriptae literae Romae in Cancellariâ Apostolicâ, An<g ref="char:EOLhyphen"/>no Incarnationis Dominicae Millesimo quingentesimo sexagesimo quarto. Di<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vero sabbati, Nona Mensis Decembris, Pontificatus sanctissimi in Christo Patris &amp; Domini nostri, Domini</hi> Pii <hi>Papae Quarti, Anno quinto.</hi>
+            </p>
+            <closer>
+               <signed>A. Lomelinus Custos.</signed>
+            </closer>
+         </div>
+         <div xml:lang="eng" type="papal_bull">
+            <pb n="21" facs="tcp:43676:4"/>
+            <head>The BULL of our Most Holy Lord, The Lord <hi>PIƲS,</hi> By Divine Providence the IV. of that Name, Upon the Form (* 1) of the Oath of the Profession of the FAITH.</head>
+            <opener>
+               <signed>PIUS <hi>Bishop,</hi> Servant of the Servants (* <hi>2</hi>) of God, <hi>that these Presents may be of everlasting Memory.</hi>
+               </signed>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Office of Apostolical service incumbent upon us, requireth, That such things as Almighty God for the provident Government of his Church, hath deigned</hi> by his divine Spirit to inspire into the Ho<g ref="char:EOLhyphen"/>ly Fathers (* <hi>3</hi>) congregated in his name, <hi>We without delay hasten to execute to his praise and glory. Seeing therefore it is so disposed by the Council of</hi> Trent, <hi>that all such as hereafter shall be promoted to any Praefectship in Cathedral or other Great Churches, or to whom it shall happen to be provided for out of the Dignities, Canonries of the said Churches, and whatsoever other Eccle<g ref="char:EOLhyphen"/>siastical Benefices having a Curateship, shall be obliged to make a pub<g ref="char:EOLhyphen"/>lick Profession of Orthodox Faith, and to promise and swear, that they shall ever persever in the Obedience of the Church of</hi> Rome. <hi>We also ha<g ref="char:EOLhyphen"/>ving
+<pb n="22" facs="tcp:43676:5"/>a Will that the same be observed and practised by all such as shall be provided for out of Monasteries, Convents, Houses, and whatsoever other places of Regulars of whatsoever Orders, even of Military Professions, under whatsoever Name or Title, and desiring also that so much sollici<g ref="char:EOLhyphen"/>tude as concerns our self, may not to any one seem to be wanting in this matter, to the end that a Profession of one and the same Faith may be uniformly made by all, and one only and certain form thereof may be ex<g ref="char:EOLhyphen"/>hibited to all, We by Apostolical Authority and by the tenour of these Presents, districtly commanding, command, that the form which is expres<g ref="char:EOLhyphen"/>sed in these presents, be published, and throughout all Nations, by these to whom it belongs according to the decrees of the said Council, and by others abovesaid, be received and observed, and under such pains as the said Council hath decreed against the Refractory, the said Profession shall be solemnly made in this following, and no other form, and under this fol<g ref="char:EOLhyphen"/>lowing tenour.</hi>
+            </p>
+            <p>
+               <hi>IN.</hi> with firm faith believe and profess all and several the things which are contained in the Symbol of Faith<note n="†" place="margin">This Symbol of Faith is not only the short <hi>Constantinopolitan</hi> Creed, which here immediately follows, but also the long 14 Articles added by the Council of <hi>Trent,</hi> and here by the Pope comman<g ref="char:EOLhyphen"/>ded to be professed as a sum of Orthodox Faith.</note> which the holy Church of <hi>Rome</hi> doth use; <hi>to wit,</hi>
+            </p>
+            <p>
+               <hi>I</hi> Believe in One God (* <hi>4</hi>) the Father Almighty, maker of heaven and of earth, of all things visible and invisible, and in one Lord Jesus Christ, the only begotten Son of God, and born of the Father before all time, God of God, Light of Light, True God of a True God, begot and not made, consubstantial with the Father, by whom all things were made: Who for us men and for our salvation descended from heaven and took flesh by the Holy Ghost of the Virgin <hi>Mary,</hi> and was made Man, crucified also for us under <hi>Pontius Pilate,</hi> suffered, and was buried, and rose again the third day according to the Scriptures, and ascended into heaven, sitteth at the right hand of the Father, and is to come again with glory to judge the quick and the dead, of whose Kingdom shall be no end: and in the holy Ghost the Lord and giver of Life, who proceedeth from the Father and the Son, and is adored and glorified together with the Father and the Son, who spake by the Prophets: and one holy Catholick and Apostolick Church. I confess one Baptism to the remission of sins, and expect the resurrection of the dead, and life of the world to come. <hi>Amen.</hi>
+            </p>
+            <p n="1">
+               <pb n="23" facs="tcp:43676:5"/>
+               <hi>1.</hi> I most firmly receive and embrace the Apostolical and Ecclesiastical (* <hi>5</hi>) Traditions, and all other Customs and Constitu<g ref="char:EOLhyphen"/>tions of the same Church.<note n="†" place="margin">Here is begun the principal part of the <hi>Roman</hi> Creed, and the real sense and import of this first Article is, <hi>I believe in the Pope.</hi>
+               </note>
+            </p>
+            <p n="2">
+               <hi>2.</hi> Also I admit the holy Scripture (* <hi>6</hi>) in that sense which the holy Mother Church hath held and holdeth, to whom it belongs to judge of the true sense and interpretation of the holy Scriptures: nor will I ever re<g ref="char:EOLhyphen"/>ceive or interpret them but according to the unanimous consent of the Fathers.</p>
+            <p n="3">
+               <hi>3.</hi> I profess also that there are seven true and proper Sacraments of the new Law, instituted by Jesus Christ our Lord, for the salvation of Man<g ref="char:EOLhyphen"/>kind, although all are not necessary to each one; <hi>to wit,</hi> Order, Baptism, Confirmation, Eucharist, Pennance, Extreme Ʋnction, Matrimony; and these all give grace: and of these Baptism, Confirmation, and Order, can<g ref="char:EOLhyphen"/>not be reiterated without Sacriledge.</p>
+            <p n="4">
+               <hi>4.</hi> I also receive and admit all received and approved Rites of the Catholick Church in the solemn administrations of all the abovesaid Sa<g ref="char:EOLhyphen"/>craments.</p>
+            <p n="5">
+               <hi>5.</hi> I also embrace and receive all and several the things (* <hi>7</hi>) which have been defined and declared in the sacred and holy Synod of <hi>Trent,</hi> concerning Original sin and Justification.</p>
+            <p n="6">
+               <hi>6.</hi> I also profess that in the Mass there is offered to God a true, proper, and propitiatory sacrifice for the Living and the Dead, and that in the most holy Sacrament of the Eucharist is contained truly, really and sub<g ref="char:EOLhyphen"/>stantially the Body and Blood, together with the Soul and Divinity of the Lord Jesus Christ, and there is made a perfect change of the whole substance of the Bread into his Body, and of the whole substance of the Wine into his Blood; which change the Catholick Church calleth Tran<g ref="char:EOLhyphen"/>substantiation.</p>
+            <p n="7">
+               <hi>7.</hi> I confess also that whole and entire Christ and the true Sacrament is received under one only species <hi>of Bread.</hi>
+            </p>
+            <p n="8">
+               <pb n="24" facs="tcp:43676:6"/>
+               <hi>8.</hi> I constantly hold that there is a Purgatory, and that souls there de<g ref="char:EOLhyphen"/>tained, are holpen (* <hi>8</hi>) by the suffrages of the faithful.</p>
+            <p n="9">
+               <hi>9.</hi> Likewise that the Saints reigning with Christ, are to be worshiped and invocated, and that they offer prayers (* <hi>9</hi>) for us to God: and that their reliques are to be worshiped.</p>
+            <p n="10">
+               <hi>10.</hi> I most firmly assert that the Images of Christ, the Virgin Mary, and of the other Saints, are to be had and kept, and duty of honour and wor<g ref="char:EOLhyphen"/>ship to be given them.</p>
+            <p n="11">
+               <hi>11.</hi> I also affirm that the power of Indulgences was left in the Church by Christ, and that the use of them is most conducive to the salvation (* <hi>10</hi>) of the Christian people.</p>
+            <p n="12">
+               <hi>12.</hi> The holy Catholick and Apostolick Church of <hi>Rome (* 11)</hi> I acknowledge to be the Mother and Mistress of all Churches; and I vow, swear, and promise true Obedience to the Bishop of <hi>Rome,</hi> as successor of B. <hi>Peter</hi> Prince of the Apostles, and Vicair of Jesus Christ.</p>
+            <p n="13">
+               <hi>13.</hi> Also all and whatsoever other things delivered by way of Tradition, defined and declared by the holy Canons, and the General Councils, and <hi>chiefly by the sacred and holy Synod of</hi> Trent, (* <hi>12</hi>) I undoubtedly receive and profess, and together all contrary things and whatsoever he<g ref="char:EOLhyphen"/>resies by the Church damned, rejected, and accursed, I also damn, reject, and accurse.</p>
+            <p n="14">
+               <hi>14. This true Catholick Faith, without which no man can be sa<g ref="char:EOLhyphen"/>ved; (* 13)</hi> which at this present I freely profess and truly hold, I the same <hi>N.</hi> do promise, vow, and swear most constantly, God assisting, to retain and confess entire and enviolate to the very last gasp of life, and to procure, as much as shall lie in me, that the same be held, taught, and prea<g ref="char:EOLhyphen"/>ched by all my inferiours, and by those who are committed to my care and charge. <hi>So God help me, and these holy Gospels of God.</hi>
+            </p>
+            <p>
+               <hi>Farther, It is is our will</hi>
+               <note n="†" place="margin">This new and vo<g ref="char:EOLhyphen"/>luntary Gospel and Creed having no other foundation than the will and work of Man, will dissolve of it self, as all other works of men, however glorious for a time.</note>
+               <hi>that these present Letters be read in our Apostolical Chancery according to the
+<pb n="25" facs="tcp:43676:6"/>custom: and, that they may be more open to all, they shall be writ in the Quintern of our said Chancery, and also imprinted.</hi>
+            </p>
+            <p>
+               <hi>Therefore it shall be lawful to no man whatsoever to infringe the page of this our Will and Commandment, or with daring rashness to contra<g ref="char:EOLhyphen"/>dict it. But if any one be so presumptuous as to attempt that, let him know that he shall incur the indignation of Almighty God, and of the B.</hi> Peter <hi>and</hi> Paul <hi>his Apostles. (* 14)</hi>
+            </p>
+            <closer>
+               <dateline>Given at <hi>Rome,</hi> at S. <hi>Peters</hi> Ann. Chr. <date>
+                     <hi>1564.</hi> the Ides of <hi>Nov.</hi> in the fifth Year of our Pontificate.</date>
+               </dateline>
+               <signed>Fed. Cardinalis Caesius Cae. Glorierius.</signed>
+            </closer>
+         </div>
+         <div type="disposition">
+            <p>
+               <hi>The Letters above-written were read and published at</hi> Rome <hi>in the Apostolical Chancel,</hi> Ann. <hi>1564. on Saturday the 9. of</hi> Decemb. <hi>in the fifth year of the Pontificate of the Most Holy Father and Lord in Christ, our Lord Pope</hi> Pius <hi>the fourth.</hi>
+            </p>
+            <closer>
+               <signed>A. Lomelinus Custos.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <p>The little Stars inserted in this Romish Symbol, are to lead the Reader to the following Notes, which discover the Sophistry of Mysterious Ini<g ref="char:EOLhyphen"/>quity hid therein.</p>
+         </div>
+         <div type="notes">
+            <pb facs="tcp:43676:7"/>
+            <pb n="27" facs="tcp:43676:7"/>
+            <head>Notes upon this BULL,</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Profession of Faith is truly that <hi>form of Godliness,</hi> of which the Apostle speaks, 2 <hi>Tim.</hi> 3.5. which the Papal Church professeth, <hi>yet really denieth the power thereof;</hi> as these following Stars make clearly appear. For first,</p>
+            <p>(*1) Here is a solemn celebrity of a form of Profession of the Orthodox Faith of Jesus Christ. Yet weigh the matter contained, and it proves nothing else in fine but a vow of unlimited obedience to the Pope, and of a Faith totally captivated to his Councils, Canons, and Decrees: as most specially appears in the 12.13. and 14. Articles of the New Creeed.</p>
+            <p>(*2) Here is a form of the most Christian Humility imaginable, where the Bishop of Bishops terms himself the Servant of the Servants of God: but confider a Satanical pride, or a greater if possible, wherewith he exalts himself above all that is called God, glorying in the title of the <hi>Most Holy Lord,</hi> which he prints above in Capital Letters, and maintains in tram<g ref="char:EOLhyphen"/>pling on the heads of Kings and Emperours, by usurpt supremacy.</p>
+            <p>(*3) Here is an extern form of Divine Doctrine, which is pretended to be inspired by God into the Holy Fathers congregated in his name. But the real truth is, that these Fathers were Schoolmen, more famous for knowledge in the Canon-law of <hi>Rome,</hi> than for holy life in the law of God; inspired with the Spirit of <hi>Aquinas</hi> and <hi>Scotus,</hi> and other School-Evange<g ref="char:EOLhyphen"/>lists, more than with the Spirit of their Master. Christ, as appears in their long New Creed drawn from their Schools and not from the Gospel: Congregated, not in the name of the <hi>Lord,</hi> for then his Law would have been their Rule: but in the name of the <hi>Pope,</hi> whose Kingdom they have fought for as most faithful Vassals.</p>
+            <p>(*4) Here is an ill strious form of Catholick and Apostolical Belief; to wit, a solemn Profession of the Primitive Creed of the Apostles, illu<g ref="char:EOLhyphen"/>strated by the Council of <hi>Nice,</hi> and of <hi>Constantinople,</hi> as a just sum of the
+<pb n="28" facs="tcp:43676:8"/>Faith of Christ. But this same Faith is mysteriously subverted by a New Creed of Traditions immediately added, exceeding the former in <hi>number</hi> of Articles, in <hi>weight</hi> of difficulty, and in <hi>measure</hi> unlimited of School-Assertions.</p>
+            <p>(*5) Under the form of these words, <hi>Apostolical, Ecclesiastical, Ca<g ref="char:EOLhyphen"/>tholick, Holy, Church, Mother, &amp;c.</hi> lies always hid the adulterate matter of the <hi>Romish</hi> Synagogue.</p>
+            <p>(*6) Here is a form of receiving the Scripture, but in truth they re<g ref="char:EOLhyphen"/>ceive it only in such tenour and sense as the Fathers admit; that is, the School-men approved by the Pope. For although this Article craftily seems to mean the ancient Fathers of the Primitive Church, yet truly they are admitted no more than the Pope and his School-men are pleased to ap<g ref="char:EOLhyphen"/>prove; and what is really here meant by the Mother-Church, you may see plainly in <hi>Art.</hi> 12.</p>
+            <p>(*7) This seems a short Article in form, but in matter it is greater than a just Creed: for the things declared and defined by the Council of <hi>Trent,</hi> concerning Original sin and Justification, are many and weighty.</p>
+            <p>(*8) This and the following Articles of this New Creed are very fal<g ref="char:EOLhyphen"/>lacious by a diminutive form of expression which craftily hideth a matter of greater Moment. As here the souls in Purgatory are only said to be holpen by the Suffrages of the Faithful. Yet certain it is, that the Pope lays claim to a greater power in that infernal Territory, and boasteth to possess the Keys thereof, and to open and shut at pleasure: especially to such as are liberal in Alms.</p>
+            <p>(*9) Here is also a diminution of words: For indeed the <hi>Roman</hi> tenet is, <hi>That the Saints are to be adored and worshiped for this cause chiefly;</hi> to wit, <hi>because Salvation, and other divine benefits are obtained by their Merits and Grace;</hi> as the Catechism of the Council of <hi>Trent</hi> plainly ex<g ref="char:EOLhyphen"/>presseth, <hi>Part.</hi> 3. <hi>Num.</hi> XXIV. Whence is manifest that the <hi>Roman</hi> Church makes the Saints fellow-Saviours with Christ: for Christ is not a Saviour any other way than by procuring us salvation and other benefits by his merits and grace.</p>
+            <p>(*10) Here is also a diminutive expression: For the Pope usurpeth Indulgences not only as conducing to salvation, but truly as fully sufficient to save all those that receive them; for to such he promiseth infallible forgiveness of all sin, and pain due to sin, especially if the Iudulgence in<g ref="char:EOLhyphen"/>clude a condition of giving Alms.</p>
+            <p>(*11) This Twelfth Article is both diminutive in expression, and captious in consequence. For, first, It means that all the Churches and
+<pb n="29" facs="tcp:43676:8"/>Nations of the World are subject to the Laws and Canons of <hi>Rome.</hi> A thing which neither Scripture nor Reason, nor any Christian Principle can sustain. Secondly, It would infer, That the Pope, as Vicar of Christ, is Lord and Master of the Nations of the World, and can dispose of Em<g ref="char:EOLhyphen"/>pires, Crowns, and Diadems, when and how he shall at any time define.</p>
+            <p>(*12) By this appears that the Council of <hi>Trent</hi> is the only measure and rule of Faith in the Church of <hi>Rome.</hi> Whereas on the contrary, S. <hi>Paul</hi> instructeth the Churches of <hi>Galatia, Gal.</hi> 1.8. to measure their Faith by that Gospel only, which from the beginning they had received, and was by himself preached unto them. And indeed this long New Creed of <hi>Rome</hi> is not derived in the least from Canonical Scripture; but in whole and in part from the Canons of <hi>Trent.</hi>
+            </p>
+            <p>(*13) <hi>Without which no man can be saved.</hi> This evidently sheweth, That this Profession of Faith is not made as a means of uniformity only, as are the Articles of the Church of <hi>England:</hi> but as a New Creed, Go<g ref="char:EOLhyphen"/>spel, or Rule of Essential belief, and as such is here imposed by the Pope upon his Subjects to be professed, vowed, sworn, and maintained under pain of eternal damnation.</p>
+            <p>(*14) By this direful Curse of the Pope, so confidently cast on those that reject his New Creed and <hi>Trent-Gospel,</hi> appears, how contrary the <hi>Pa<g ref="char:EOLhyphen"/>pal</hi> Spirit is to the Spirit that spake in <hi>Paul, Gal.</hi> 1.8. where a Curse is de<g ref="char:EOLhyphen"/>clared to fall on those who shall preach a Gospel other than that which was already preached by <hi>Paul.</hi> The Curse therefore, except we mani<g ref="char:EOLhyphen"/>festly deny the Holy Ghost in his great Apostle, must fall on the Pope and and Papal Preachers; except they can find a Priviledge, greater than gi<g ref="char:EOLhyphen"/>ven to Apostles, or Angels, to preach and establish New Gospels at pleasure.</p>
+            <p>Wherefore no man, so much a Christian as to believe the Scriptures, can in Conscience make scruple to reject this Papal Symbol, as Anathe<g ref="char:EOLhyphen"/>matized with its Author: Otherwise, as captive to accursed Doctors, let such an one certainly expect to be led in darkness, deprived of the Truth and Light of Christ.</p>
+            <p>In fine, It appears, That as the sum of the Primitive Creed and Gospel is to believe <hi>in God;</hi> so the sum of the Romish Creed and Gospel is to believe <hi>in Man, the Pope.</hi> And as the Rule of the Pri<g ref="char:EOLhyphen"/>mitive Faith is <hi>the Word of God, the holy Scriptures;</hi> so the Rule of the Romish Faith is <hi>the word of Man, Papal definitions.</hi> And as the end
+<pb n="30" facs="tcp:43676:9"/>of the Primitive Faith is <hi>the Charity of God,</hi> to keep his Command<g ref="char:EOLhyphen"/>ments; so the end of the Romish Faith is <hi>Slavery to Man,</hi> to main<g ref="char:EOLhyphen"/>tain his Supremacy. Thus alass, <hi>Rome hath left the Fountain of living waters, God, for the broken Cisterns of the digging of man, which hold no water,</hi> Jer. 2.12.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>A Discourse concerning the Idolatry practised in the Church of <hi>Rome,</hi> and the hazard of Salvation in the communion of it. In Answer to some Papers of a Revolted Protestant; wherein a particular account is given of the <hi>Fanaticism</hi> and <hi>Divisions</hi> of that Church;</p>
+            <p>By <hi>EDWARD STILLINGFLEET,</hi> D.D.</p>
+            <p>Sold at the <hi>Phoenix</hi> in St. <hi>Pauls</hi> Church-yard, and at the <hi>White Hart</hi> in <hi>Westminster Hall.</hi> 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
